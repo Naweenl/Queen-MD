@@ -1,4 +1,4 @@
-Ò/*
+/*
    ██████╗ ██╗   ██╗███████╗███████╗███╗   ██╗      ███╗   ███╗██████╗ 
   ██╔═══██╗██║   ██║██╔════╝██╔════╝████╗  ██║      ████╗ ████║██╔══██╗
   ██║   ██║██║   ██║█████╗  █████╗  ██╔██╗ ██║█████╗██╔████╔██║██║  ██║
@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.session = process.env.SESSION_ID || 'dDdTdGVwRFc=',
+global.session = process.env.SESSION_ID || 'YjNLMFBwbVk=',
 global.ownername = process.env.OWNER_NAME === undefined ? "DarKNaviya" : process.env.OWNER_NAME
-let fake = process.env.OWNER_NUMBER === undefined ? '94723396373' : process.env.OWNER_NUMBER
+let fake = process.env.OWNER_NUMBER === undefined ? '94711392930' : process.env.OWNER_NUMBER
 global.owner = [`${fake}`]
 global.ownernumber = [`${fake}`]
 global.premium = [`${fake}`]
